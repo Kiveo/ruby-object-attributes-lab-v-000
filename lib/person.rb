@@ -1,5 +1,5 @@
 class Person
-  @name = name
+  @name = name #ok this works...but is it good practice?
 
   def name
     @name
